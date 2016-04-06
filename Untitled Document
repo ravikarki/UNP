@@ -1,0 +1,1 @@
+g++ -o of $(mysql_config --c flags) prog1.cpp $(mysql_config --libs)

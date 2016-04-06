@@ -1,0 +1,11 @@
+Script started on Sunday 03 April 2016 04:34:00 PM IST
+]0;ravi@ravi-HP-Pavilion-15-Notebook-PC: ~/Desktop/UNPravi@ravi-HP-Pavilion-15-Notebook-PC:~/Desktop/UNP$ bundle exec cap production deeploy[A]0;ravi@ravi-HP-Pavilion-15-Notebook-PC: ~/Desktop/UNPravi@ravi-HP-Pavilion-15-Notebook-PC:~/Desktop/UNP$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbundle exec cap production deeploy[A]0;ravi@ravi-HP-Pavilion-15-Notebook-PC: ~/Desktop/UNPravi@ravi-HP-Pavilion-15-Notebook-PC:~/Desktop/UNP$ [6Pgit push origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -am "New Sponsors  added"[A]0;ravi@ravi-HP-Pavilion-15-Notebook-PC: ~/Desktop/UNPravi@ravi-HP-Pavilion-15-Notebook-PC:~/Desktop/UNP$ [C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -am "New Sponsors  added"[A]0;ravi@ravi-HP-Pavilion-15-Notebook-PC: ~/Desktop/UNPravi@ravi-HP-Pavilion-15-Notebook-PC:~/Desktop/UNP$ [C[C[C[C[6Ppush origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbundle exec cap production deeploy[A]0;ravi@ravi-HP-Pavilion-15-Notebook-PC: ~/Desktop/UNPravi@ravi-HP-Pavilion-15-Notebook-PC:~/Desktop/UNP$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg++ -o of $(mysql_config --c flags) prog1.cpp $(mysql_config --libs)
+]0;ravi@ravi-HP-Pavilion-15-Notebook-PC: ~/Desktop/UNPravi@ravi-HP-Pavilion-15-Notebook-PC:~/Desktop/UNP$ exit
+exit
+
+Script done on Sunday 03 April 2016 04:34:36 PM IST
