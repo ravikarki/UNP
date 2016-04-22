@@ -473,7 +473,7 @@ void *client_service(void *socket_desc)
     	if(userstatus == 0)
     	{
     		bzero(client_message, 2000);
-    		strcpy(client_message, "Invalid Username or Password ");
+    		strcpy(client_message, "Invalid Username or Password. \n Please Re-enter username and password ");
     		write(sock , client_message , strlen(client_message));
     	}
     }

@@ -57,7 +57,7 @@ int checkformat(char client_message[])
         if(client_message[k] >= 'a' && client_message[k] <='z')
             client_message[k] -= 32;      
     }
-    if(strcmp(client_message,"LOGOUT") == 0)
+    if(strcmp(client_message,"LOG OUT") == 0)
         return 1;
 
     //printf("%s\n", client_message);
@@ -376,7 +376,7 @@ int main(int argc , char *argv[])
             puts("Send failed");
             return 1;
         }
-        puts("Send this failed");
+        //puts("Send this failed");
          
         pret = poll(fds, 1,timeout);
         
@@ -408,10 +408,12 @@ int main(int argc , char *argv[])
             }   
 
             puts(server_reply);
-            if(strcmp(server_reply,"Seccessfully Disconnected.") == 0)
+            if(strcmp(server_reply,"Successfully logged out") == 0)
                     break;
             bzero(server_reply, 2000);
             bzero(message, 1000);
+
+            pret = poll(fds, 1,timeout);
 
             while(fds[0].revents & POLLIN)
             {
@@ -426,6 +428,8 @@ int main(int argc , char *argv[])
                     pret = poll(fds, 2, infinity);
                 }
             }
+            cin.getline(message,1000);
+
         }
     }
      
